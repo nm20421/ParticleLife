@@ -5,9 +5,9 @@ NB:
 2. The attraction matrix is defined randomly and represents the attraction at the mid point between the inter-particle repulsion and the end of particle interaction. The attraction decays linearly from this mid point. 
 
 Requires the following python libraries:
-random
-math
-numpy
+random,
+math,
+numpy,
 pygame
 
 
